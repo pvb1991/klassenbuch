@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvtitel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/MyTextViewStyle"
+        android:text="TextView" />
+
+    <Spinner
+        android:id="@+id/spinner_id_mark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         />
+
+    <Spinner
+        android:id="@+id/spinner_mark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         />
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>

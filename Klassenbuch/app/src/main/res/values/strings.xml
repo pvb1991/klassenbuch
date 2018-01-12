@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Klassenbuch</string>
+
+    <!--_______________________________________________________________________-->
+    <!-- A -->
+    <string name="absentdays">Fehltage</string>
+    <string name="admin">Admin</string>
+    <string name="adminArea">Admin Bereich</string>
+    <string name="attendance">Anwesenheit</string>
+    <string name="attendancelist">Anwesenheitsliste</string>
+
+    <!-- B -->
+    <string name="back">Zurück</string>
+    <string name="bad">Schlecht</string>
+    <string name="broke">Abbruch</string>
+
+
+    <!-- C -->
+    <string name="className">Klassenname</string>
+    <string name="createSittingPlan">Sitzplan Erstellen</string>
+    <string name="createNewStudent">Neuen Schüler anlegen</string>
+    <string name="createNewTeacher">Neuen Lehrer anlegen</string>
+    <string name="createNewClass">Neue Klasse anlegen</string>
+    <string name="createRoom">Raumplan erstellen</string>
+    <string name="contactedAdmin">Kontaktieren Sie einen Admin!</string>
+    <string name="cooporation">Mitarbeit</string>
+
+    <!-- D -->
+    <string name="date">Datum</string>
+    <string name="delays">Verspätungen</string>
+
+    <!-- E -->
+    <string name="email">E-Mailadresse</string>
+    <string name="ending">Beenden</string>
+    <string name="entermark">Note eintragen</string>
+    <string name="enterExam">Klasur eintragen</string>
+    <string name="enterDelay">Verspätung eintragen</string>
+    <string name="exam">Klausur</string>
+    <string name="exammark">Klasurnote</string>
+    <string name="exams">Klausuren</string>
+
+    <!-- F -->
+    <string name="floor">Stockwerk</string>
+    <string name="forget">Vergessen</string>
+    <string name="firstname">Vorname</string>
+
+    <!-- G -->
+    <string name="good">Gut</string>
+
+    <!-- H -->
+    <string name="Homework">Hausaufgaben</string>
+    <string name="homework">Hausaufgaben</string>
+    <string name="homeworkscontroll">Hausaufgabenkontrollieren</string>
+    <string name="housenumber">Hausnummer</string>
+
+    <!-- i -->
+    <string name="insterExam">Klausurnoten eintragen</string>
+
+    <!-- L -->
+    <string name="listOfClass">Klassenliste</string>
+    <string name="listOfStudents">Schülerliste</string>
+    <string name="locus">Ort</string>
+    <string name="login">Anmelden</string>
+    <string name="logout">Abmelden</string>
+
+    <!-- M -->
+    <string name="mark">Note</string>
+    <string name="mean">Durchschnitt</string>
+
+    <!-- N -->
+    <string name="name">Name</string>
+    <string name="newClass">Neue Klasse</string>
+    <string name="next">Anmelden</string>
+    <string name="noEntries">Keine Einträge</string>
+    <string name="note">Notiz</string>
+    <string name="notExist">exestiert nicht</string>
+    <string name="noStudents">Für Sie stehen keine Schüler zur Verfügung!</string>
+    <string name="noClass">Sie sind keiner Klasse zu geteilt!</string>
+    <string name="noSeatingPlan">Es für diese Unterrichtseinheit ist kein Sitzplan gespeichert!</string>
+    <string name="noUnit">Sie sind keinem Unterricht und/oder Klasse zugewiesen !</string>
+    <string name="numberOfReviews">Anzahl der Bewertungen</string>
+
+    <!-- O -->
+    <string name="oralGrade">Mündliche Note</string>
+    <string name="okay">Okay</string>
+
+    <!-- P -->
+    <string name="password">Passwort</string>
+    <string name="present">Vorhanden</string>
+    <string name="present2">Anwesend</string>
+    <string name="presentdays">Anwesendheitstage</string>
+    <string name="percentage">Prozentual</string>
+
+    <!-- R -->
+    <string name="room">Raum</string>
+    <string name="roomWithTheRoomnumber">Raum mit der Raumnummer</string>
+    <string name="roomnumber">Raumnummer</string>
+
+    <!-- S -->
+    <string name="save">Speichern</string>
+    <string name="saved">Gespeichert</string>
+    <string name="settings">Einstellungen</string>
+    <string name="startUnit">Unterricht Starten</string>
+    <string name="street">Straße</string>
+    <string name="studentInNoUnit">Schüler ist keinem Unterricht hinzugefügt, bzw. in keiner Klasse</string>
+    <string name="students"> Schüler </string>
+    <string name="subject">Unterrichtsfach</string>
+    <string name="surname">Nachname</string>
+
+    <!-- T -->
+    <string name="table">Tisch</string>
+    <string name="teacher">Lehrer</string>
+
+    <!-- U -->
+    <string name="UnitName">Unterrichts Fach</string>
+
+    <!-- W -->
+    <string name="whereseatinghere">Wer sitzt hier?</string>
+    <string name="wrongInput">Falsche eingabe!</string>
+
+    <!-- Z -->
+    <string name="zipCode">PLZ</string>
+
+
+    <!--_______________________________________________________________________-->
+
+    <string-array name="pleaseChangeFloor">
+        <item>Stockwerk bitte wählen</item>
+    </string-array>
+
+    <string-array name="settings">
+        <item>Einstellungen</item>
+    </string-array>
+
+    <string-array name="adminarea">
+        <item>Klassen</item>
+        <item>Schüler</item>
+        <item>Räume</item>
+        <item>Lehrer</item>
+        <item>Fächer</item>
+        <item>Schüler/ Klasse</item>
+        <item>Lehrer/ Fach</item>
+    </string-array>
+
+</resources>

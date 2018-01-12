@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E66227</color>
+    <color name="colorPrimaryDark">#bd3a02</color>
+    <color name="colorAccent">#E66227</color>
+    <color name="logoOrange100">#FFE66227</color>
+    <color name="logoOrange75">#C0E66227</color>
+    <color name="logoOrange50">#80E66227</color>
+    <color name="logoOrange25">#40E66227</color>
+
+</resources>
